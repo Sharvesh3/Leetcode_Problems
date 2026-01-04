@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
