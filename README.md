@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0228-summary-ranges](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
