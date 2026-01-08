@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
