@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
@@ -92,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
