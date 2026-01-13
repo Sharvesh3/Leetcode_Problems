@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
