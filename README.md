@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Stack
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
