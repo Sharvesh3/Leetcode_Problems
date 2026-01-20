@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0043-multiply-strings) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
