@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0344-reverse-string) |
 ## Binary Search
