@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
