@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
