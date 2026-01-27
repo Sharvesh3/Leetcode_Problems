@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1512-number-of-good-pairs](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
 | [1512-number-of-good-pairs](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1108-defanging-an-ip-address) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
