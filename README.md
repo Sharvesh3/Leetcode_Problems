@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0290-word-pattern](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
