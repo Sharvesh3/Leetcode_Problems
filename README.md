@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0223-rectangle-area](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Prefix Sum
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0223-rectangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
