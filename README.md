@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
