@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
