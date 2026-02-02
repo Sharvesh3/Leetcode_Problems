@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2469-convert-the-temperature) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2579-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
 | ------- |
