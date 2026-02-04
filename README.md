@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0344-reverse-string) |
 ## Binary Search
