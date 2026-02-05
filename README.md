@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3637-trionic-array-i](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/3637-trionic-array-i) |
 ## Math
 |  |
 | ------- |
