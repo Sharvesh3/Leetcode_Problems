@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1816-truncate-sentence) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3637-trionic-array-i](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/3637-trionic-array-i) |
 ## Math
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0561-array-partition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
 |  |
 | ------- |
