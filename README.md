@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0344-reverse-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
