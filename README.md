@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/1816-truncate-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sharvesh3/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
